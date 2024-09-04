@@ -1,0 +1,13 @@
+{
+  "app_id": "00000",
+  "api_token": "00000000000000000000000000000000",
+  "ndk_enabled": false,
+  "sdk_config": {
+    "networking": {
+      "enable_native_monitoring": false
+    }
+  },
+  "startup_moment": {
+    "take_screenshot": false
+  }
+}
